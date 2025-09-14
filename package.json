@@ -1,0 +1,12 @@
+{
+  "name": "VOLEI",
+  "version": "1.0.0",
+  "description": "API para o projeto Galera do Vôlei",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
